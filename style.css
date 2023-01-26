@@ -1,0 +1,136 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-color: #f0eaea;
+  font-family: "Plus Jakarta Sans", sans-serif;
+
+  color: #585454;
+}
+.container {
+  display: flex;
+  justify-content: center;
+}
+.main {
+  padding: 10px;
+  width: 475px;
+  background-color: white;
+  margin: 0px 7px;
+  border-radius: 8px;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+.top-head-left {
+  display: flex;
+}
+.head-left {
+  font-weight: bold;
+  font-size: 16px;
+  margin: 0px;
+  color: #000000e3;
+}
+.three {
+  background-color: hsl(219, 85%, 26%);
+  padding: 2px 10px;
+  margin: 0px 0px 0px 8px;
+
+  border-radius: 4px;
+  color: white;
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+  font-size: 14px;
+}
+.head-right {
+  margin: 0px;
+  font-size: 14px;
+}
+.ntf-first {
+  margin-top: 19px;
+  background-color: #ececec4a;
+  padding: 13px;
+  border-radius: 6px;
+}
+.ntf {
+  background-color: #ececec4a;
+  padding: 13px;
+  margin-top: 7px;
+  border-radius: 6px;
+}
+.image {
+  width: 36px;
+  height: 36px;
+  margin-right: 12px;
+}
+
+.first-content {
+  display: flex;
+}
+.name {
+  font-weight: bold;
+  font-size: 15px;
+  color: black;
+  margin-right: 3px;
+}
+.ntf-content {
+  font-size: 13.4px;
+}
+.first-p1 {
+  font-weight: bold;
+  color: #595757e8;
+  font-size: 13px;
+  margin-left: 3px;
+}
+.first-p2 {
+  font-size: 12px;
+  color: #0000005e;
+  margin: 3px 0px 0px 0px;
+}
+
+.dot {
+  height: 6px;
+  width: 6px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0px 0px 0px 2px;
+}
+.third-p1 {
+  color: rgb(10, 10, 133);
+}
+.ntf-main {
+  padding: 10px;
+  margin-top: 8px;
+  border-radius: 6px;
+}
+.msg {
+  margin-left: 61px;
+
+  padding: 10px;
+  border: 1px solid #00000040;
+  border-radius: 5px;
+}
+.msg-p {
+  font-size: 13px;
+  color: #3a3131;
+}
+.nft-five {
+  display: flex;
+  justify-content: space-around;
+}
+.image1 {
+  width: 36px;
+  height: 36px;
+  border-radius: 30%;
+}
+.seven-p1 {
+  font-weight: bold;
+
+  font-size: 13px;
+  color: #6c6666;
+}
+.nft-content {
+  display: flex;
+  justify-content: space-between;
+}
